@@ -29,17 +29,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imamulashan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imamulahsan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## Github Stats
 
 ![](https://activity-graph.herokuapp.com/graph?username=imamulahsan&theme=react-dark&hide_border=true&area=true)
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imamulahsan">
+<img src="https://github-readme-stats.vercel.app/api?username=imamulahsan&count_private=true&show_icons=true&theme=light" alt="Imamul's github stats"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imamulahsan&theme=react-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=imamulahsan&count_private=true&show_icons=true&theme=light" alt="Vaibhav's github stats"/>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veb-101&layout=compact&theme=light"/>
- -->
----
 
 <!---
 imamulahsan/imamulahsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
