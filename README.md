@@ -25,11 +25,6 @@
  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imamulahsan&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imamulashan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imamulahsan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
 ![](https://activity-graph.herokuapp.com/graph?username=imamulahsan&theme=react-dark&hide_border=true&area=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imamulahsan">
 <img src="https://github-readme-stats.vercel.app/api?username=imamulahsan&count_private=true&show_icons=true&theme=light" alt="Imamul's github stats"/>
