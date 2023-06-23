@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @imamulahsan
+<h1 align="center">👋 Hi , I'm @imamulahsan</h1>
+
 - 👀 I’m interested in building technologies related to Machine Learning and Computer Vision. I also like developing web technologies using MERN.
 - 💞️ I’m in love with Data Analysis. I’m familiar with Pandas, NumPy, SciPy, Sci-Kit Learn,  Tensorflow, and, OpenCV.
 - 🌱 I’m currently learning TensorFlow to work on several Computer Vision based projects.
