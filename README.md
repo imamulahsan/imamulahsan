@@ -43,10 +43,14 @@
 ![Imamul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=imamulahsan&show_icons=true&theme=dracula)
 <br>
 </br>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imamulahsan&theme=react-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imamulahsan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br>
 </br>
+---
 [![](https://visitcount.itsvg.in/api?id=imamulahsan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imamulahsan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
