@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Devops and basics of CI/CD pipeline.
 - 📫 How to reach me ahsanimamul808@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=imamulahsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imamulahsan) 
@@ -47,7 +48,7 @@
 <br>
 </br>
 ---
-[![](https://visitcount.itsvg.in/api?id=imamulahsan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imamulahsan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
