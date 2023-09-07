@@ -37,17 +37,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://activity-graph.herokuapp.com/graph?username=imamulahsan&theme=react-dark&hide_border=true&area=true)
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imamulahsan&layout=compact&langs_count=16&theme=dracula"/>
-<br>
-</br>
-![Imamul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=imamulahsan&show_icons=true&theme=dracula)
-<br>
-</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imamulahsan&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br>
-</br>
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imamulahsan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imamulahsan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imamulahsan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 ## 🏆 GitHub Trophies
