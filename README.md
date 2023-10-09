@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi , I'm @imamulahsan</h1>
 
-- 👀 I’m interested in building  web technologies using MERN. I also like machine learning and computer vision.
-- 💞️ In love with Javascript. I’m familiar with both backend and fronted technologies.
-- 🌱 Currently learning Devops and basics of CI/CD pipeline.
+- 👀 I’m interested in building  AI and web technologies using Python and React. I also like machine learning and computer vision.
+- 💞️ I’m familiar with both backend and fronted technologies.
+- 🌱 Currently learning about how to build and deploy end to end machine learning projects.
 - 📫 How to reach me ahsanimamul808@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=imamulahsan&icon=0&color=0)](https://visitcount.itsvg.in)
