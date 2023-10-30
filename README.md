@@ -1,14 +1,20 @@
 <h1 align="center">👋 Hi , I'm @imamulahsan</h1>
 
-- 👀 I’m interested in building  AI and web technologies using Python and React. I also like machine learning and computer vision.
+
+
+- 👀 I’m interested in building  Fullstack Web Application using Python and React. I also like machine learning and computer vision.
 - 💞️ I’m familiar with both backend and fronted technologies.
-- 🌱 Currently learning about how to build and deploy end to end machine learning projects.
+- 🌱 Currently learning React Native.
 - 📫 How to reach me ahsanimamul808@gmail.com
 
-[![](https://visitcount.itsvg.in/api?id=imamulahsan&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊 GitHub Stats:
+ [![GitHub Streak](https://streak-stats.demolab.com?user=imamulahsan&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imamulahsan) 
+[![](https://visitcount.itsvg.in/api?id=imamulahsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 
@@ -34,14 +40,8 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=imamulahsan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imamulahsan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imamulahsan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 <!---
 imamulahsan/imamulahsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
