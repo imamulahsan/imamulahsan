@@ -3,7 +3,7 @@
 
 
 
-- 👀 I’m interested in building  Fullstack Web Application using MEAN or MERN. I also love to work on data science and computer vision.
+- 👀 I’m interested in building  Fullstack Web Applications using MEAN or MERN. Also love to work on data science and computer vision.
 - 💞️ I’m familiar with both backend and fronted technologies.
 - 🌱 Currently learning React Native.
 - 📫 How to reach me ahsanimamul808@gmail.com
