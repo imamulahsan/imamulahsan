@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in building  Fullstack Web Applications using MEAN or MERN. Also love to work on data science and computer vision.
 - 💞️ I’m familiar with both backend and fronted technologies.
-- 🌱 Currently learning React Native.
+- 🌱 Currently learning Flutter.
 - 📫 How to reach me ahsanimamul808@gmail.com
 
 # 📊 GitHub Stats:
