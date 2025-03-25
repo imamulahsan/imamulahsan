@@ -9,7 +9,7 @@
 - 📫 How to reach me ahsanimamul808@gmail.com
 
 # 📊 GitHub Stats:
- [![GitHub Streak](https://streak-stats.demolab.com?user=imamulahsan&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imamulahsan&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
 
 
 
